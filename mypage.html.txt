@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Opeyemi's AI Portrait</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #0E153A;
+            color: #FFD700;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #0E153A;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+            margin: 0;
+        }
+        p {
+            font-size: 18px;
+            margin-top: 10px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Opeyemi's AI Portrait</h1>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>Hello, I'm Opeyemi, and I specialize in creating stunning AI portraits that capture the essence of your imagination. Whether you're looking for a unique piece of art or a personalized gift, my AI portraits are the perfect choice.</p>
+        <h2>Discover My Art</h2>
+        <p>Explore my gallery to see a collection of AI portraits that showcase my creativity and passion for art. Each piece is carefully crafted to bring your ideas to life.</p>
+        <h2>Contact Me</h2>
+        <p>If you're interested in purchasing one of my AI portraits or have any questions, feel free to reach out to me at opeyemi@email.com. I'd be happy to assist you!</p>
+    </div>
+</body>
+</html>
